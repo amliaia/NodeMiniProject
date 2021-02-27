@@ -10,7 +10,7 @@ inquirer
         },
         {
             type: 'input',
-            message: 'What is your password?',
+            message: 'Where are you located?',
             name: 'location',
         },
         {
